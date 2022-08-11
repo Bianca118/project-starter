@@ -42,6 +42,15 @@ nav {
     margin: 20px;
 }
 
+.nav-links a {
+    color: rgb(24, 28, 33);
+}
+
+.right-links a {
+    color: rgb(24, 28, 33);
+
+}
+
 .nav-links ul,
 li {
     display: flex;
